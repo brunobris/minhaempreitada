@@ -5,7 +5,7 @@ O objetivo é criar uma plataforma onde profissionais e/ou empresas possam publi
 
 Sobre recursos técnicos:
 
-  \t1 - A arquitetura será baseada em micro-serviços sempre que possível;
+  1 - A arquitetura será baseada em micro-serviços sempre que possível;
   
   2 - A tecnologia utilizada para o desenvolvimento back-end ainda não foi definida, estando entre Java (Play Famework), Python com Django, ou Python com Flask e SQL Alchemy;
   
